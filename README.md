@@ -1,2 +1,1 @@
 # sato-tate
-# sato-tate
