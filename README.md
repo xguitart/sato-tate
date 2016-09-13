@@ -5,6 +5,8 @@ Description of the files:
 
 40.sage --> Check of the entry for M = Q(\sqrt{-40}) or Table 3
 
+40_bis.sage --> Check of the entry for M = Q(\sqrt{-40}) or Table 3, using the nicer model of E suggested by the referee and that appears in the revised version of the article
+
 embedding_problem.m --> checking Lemma 3.23
 
 list_of_Ks.sage --> check the Base change constructions of Section 4.2
